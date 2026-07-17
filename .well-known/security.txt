@@ -1,0 +1,4 @@
+Contact: mailto:security@imperialplaza.example
+Expires: 2027-07-17T11:48:47.657Z
+Preferred-Languages: en, de, fr
+Canonical: https://imperialplaza.onrender.com/.well-known/security.txt
